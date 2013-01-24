@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="AntuanSoft_BASE_WEB_SPRING_PROJECT">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="java-output-path" value="/AntuanSoft_BASE_WEB_SPRING_PROJECT/build/classes"/>
+        <property name="context-root" value="AntuanSoft_BASE_WEB_SPRING_PROJECT"/>
+    </wb-module>
+</project-modules>
