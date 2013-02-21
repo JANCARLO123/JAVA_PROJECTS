@@ -9,7 +9,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 
 @Controller
-public class log4jtest {
+public class Log4jtest {
 
 	Logger logger = Logger.getLogger(getClass());
 	
